@@ -7,6 +7,28 @@
 <h1 align="center">Ceremonyy</h1>
 </div>
 
+# 📱 Ceremonyy – Event Management App 
+<p><strong>Tech Stack:</strong> Kotlin, Jetpack Compose, REST API<br>
+<strong>Duration:</strong> January 2025 – February 2025</p>
+
+<p><em>Ceremonyy</em> is a comprehensive <strong>event management application</strong> developed using <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>, designed to simplify the process of planning and organizing events. The app primarily focuses on <strong>vendor discovery and event planning</strong>, offering users an intuitive interface and robust feature set for seamless event coordination.</p>
+
+<p>The application allows users to <strong>browse vendor information</strong>, categorized by <strong>events</strong> (like weddings, birthdays, etc.) and <strong>services</strong> (such as catering, decoration, photography), across <strong>multiple locations</strong>. A powerful <strong>search and filter system</strong> helps users quickly find relevant vendors based on categories, services, and locations. Each vendor has a detailed profile showcasing their offerings, pricing, images, and more.</p>
+
+<p>To enhance planning efficiency, the app provides a fully integrated <strong>event management system</strong>, allowing users to:</p>
+<ul>
+  <li><strong>Create and manage events</strong> with details like name, date, and type.</li>
+  <li><strong>Organize event tasks</strong> using a dedicated task manager.</li>
+  <li><strong>Track and manage budgets</strong> with features for adding expenses, creating budget categories, and summarizing payments.</li>
+  <li><strong>Maintain guest lists</strong> and add personalized guest details.</li>
+  <li><strong>Favorite vendors</strong> for quick future reference.</li>
+  <li>Edit user profile details, reset passwords, and manage privacy settings.</li>
+</ul>
+
+<p>Users can also <strong>log in or register using OTP-based authentication</strong>, retrieve forgotten passwords, and update personal details from the <strong>account screen</strong>. The smooth user flow is supported by clear navigation and modern UI practices.</p>
+
+<p>This project demonstrates effective use of <strong>Jetpack Compose for UI</strong>, <strong>REST APIs for real-time data handling</strong>, and <strong>modular design</strong> for easy scalability. With its clean architecture and user-centric features, Ceremonyy delivers a <strong>streamlined and delightful event planning experience</strong> for users.</p>
+
 # ✨ Design
 
 <div align="center"> 
@@ -84,5 +106,5 @@ This app uses [MVVM(Model View View-Model)](https://developer.android.com/topic/
 ![Architecture_Flow](https://user-images.githubusercontent.com/80090908/216841302-97243bc3-3df4-4416-8f1f-dc22398c86b1.png)
 
 
-## Contact 📞
+# 📞 Contact 
 If you need any help, you can connect with me [here](https://linkedin.com/in/shreyas-arbale-11047b238).
