@@ -1,6 +1,7 @@
 # Ceremonyy
 Home
 ![IMG-20250718-WA0089](https://github.com/user-attachments/assets/88c1d3de-5109-4e4e-a92c-d701b313d9f1)
+
 Events
 ![IMG-20250718-WA0087](https://github.com/user-attachments/assets/b21f6f4f-6eed-4c9e-b1da-38661e758bfb)
 Services
