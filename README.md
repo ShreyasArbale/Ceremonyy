@@ -1,7 +1,6 @@
 # Ceremonyy
 ![IMG-20250718-WA0089](https://github.com/user-attachments/assets/88c1d3de-5109-4e4e-a92c-d701b313d9f1)
-Events Screen
-![IMG-20250718-WA0087](https://github.com/user-attachments/assets/b21f6f4f-6eed-4c9e-b1da-38661e758bfb)
+Events Screen ![IMG-20250718-WA0087](https://github.com/user-attachments/assets/b21f6f4f-6eed-4c9e-b1da-38661e758bfb)
 Services Screen
 ![IMG-20250718-WA0086](https://github.com/user-attachments/assets/765ea602-8aec-41d8-b18a-f556f619a2e8)
 Search Screen
